@@ -8,7 +8,7 @@ const Product = () => {
   return (
     <div>
         <div>
-            <h1>Best Selling Products</h1>
+            <h1 className='flex justify-center'>Best Selling Products</h1>
         </div>
         <div className="flex justify-between mt-8 p-2">
             <div className="bg-gray-400 rounded shadow p- flex flex-col items-center w-60 h-80">
